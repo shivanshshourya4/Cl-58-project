@@ -1,0 +1,83 @@
+Body {
+    text-align:center;
+    background-repeat: no-repeat;
+    background-color:aqua
+}
+
+h1{
+    text-shadow:2px 2px cyan;
+    font-size:20px;
+     font-family:cursive;
+}
+
+h2{
+    text-shadow:2px 2px cyan;
+    font-size:25px;
+     font-family:cursive;
+}
+
+#welcome{
+ background:linear-gradient(#60ebeb 0%,#27ae60 100%);
+}
+
+#bio{
+    padding:20px;
+    font-size:20px;
+    text-align:center;
+    margin-top:150px;
+    background-color: darkorange;
+}
+
+#contact{
+    background-color: darkorange;
+}
+
+
+#name{
+    font-size:30px;
+    line-height:1.2;
+    font-family:Festive,cursive;
+}
+
+
+
+.line{
+    height:6px;
+    background-color:black;
+    width:260px;
+    margin:8px auto;
+}
+   
+.image{
+    width:120px;
+    margin-bottom:50px;
+    border-radius:100%;
+}
+
+.menu{
+  list-style: none;
+    position: fixed;
+    top:10px;
+    right: 30px;
+    cursor:pointer;
+    z-index:10;
+    
+}
+
+
+.links{
+    float: left;
+    color: fuchsia;
+    padding-top:5px;
+    padding-left:9px;
+    padding-right:9px;
+    padding-bottom:5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
+
+.links:hover{
+    background-color: dodgerblue;
+}
+
+    
